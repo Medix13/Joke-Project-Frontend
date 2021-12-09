@@ -1,0 +1,13 @@
+nav {
+    background: #fca311;
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    margin: 10px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+}
